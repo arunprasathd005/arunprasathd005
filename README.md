@@ -17,7 +17,7 @@ I'm a developer skilled in the MERN stack and passionate about building web appl
 - **Tools**: Git, GitHub, Visual Studio Code
 
 ## Find Me Online
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/arun-prasath-d-481a3625b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arun-prasath-d-481a3625b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/arunprasathd_005/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/arunprasathd005)
 
