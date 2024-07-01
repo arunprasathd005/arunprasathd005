@@ -1,4 +1,4 @@
-# Hello, I'm [ArunPrasathD] 👋
+# Hello, I'm [Arun Prasath D] 👋
 
 ## About Me
 I'm a developer skilled in the MERN stack and passionate about building web applications.
