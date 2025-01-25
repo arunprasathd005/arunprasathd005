@@ -1,7 +1,7 @@
-# Hello, I'm [Arun Prasath D] 👋
+# Hello, I'm Arun Prasath D 👋
 
 ## About Me
-I'm a developer skilled in the MERN stack and passionate about building web applications.
+I'm a developer skilled in the MERN stack and flutter, passionate about building web applications.
 
 ## Projects
 - **[Driving School Course](https://github.com/arunprasathd005/driving_school_online.git)**: A Driving license course app using Flutter and Dart.
